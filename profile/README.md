@@ -1,20 +1,15 @@
 Bienvenidos 👋
 
-# Seguridad y Alta Disponibilidad
+# Entornos de Desarrollo, Lenguaje de Marcas, Sistemas de Gestión de la Información
 
 > `IES Clara del Rey`
 
-![Grupo DW2A](https://raw.githubusercontent.com/SR2A/.github/main/profile/SR2A.png "Este es un grupo privado")
+![Grupo DW1A](https://raw.githubusercontent.com/DW1A/.github/main/profile/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg "Este es un grupo privado")
 
-[Imagen vía Unsplash](https://unsplash.com/photos/4hbJ-eymZ1o)
+[Imagen vía Unsplash](https://unsplash.com/es/fotos/6sAl6aQ4OWI)
 
-🙋 **Grupo privado `SR2A`**
+🙋 **Grupo privado `DW1A`**
+
+## Temario
 
 ## Referencias
-
-- [INCIBE](https://www.incibe.es/):
-  > El *Instituto Nacional de Ciberseguridad de España* (**INCIBE**) es una sociedad dependiente del *Ministerio de Asuntos Económicos y Transformación Digital* a través de la *Secretaría de Estado de Digitalización e Inteligencia Artificial* y consolidada como entidad de referencia para el desarrollo de la ciberseguridad y de la confianza digital de ciudadanos, red académica y de investigación, profesionales, empresas y especialmente para sectores estratégicos.
-- [CCN-CERT](https://www.ccn-cert.cni.es/):
-  > El CCN-CERT es la Capacidad de Respuesta a Incidentes de Seguridad de la Información del Centro Criptológico Nacional.
-- [The Hacker News](https://thehackernews.com/):
-  > **The Hacker News** is the leading and go-to source for timely and relevant breaking news from the world of cybersecurity, as well as valuable insights into the latest threats and solutions.
