@@ -8,7 +8,11 @@ Bienvenidos 👋
 
 [Imagen vía Unsplash](https://unsplash.com/es/fotos/6sAl6aQ4OWI)
 
-[GitHub Classroom](https://classroom.github.com/classrooms/145561749-dw1a-classroom) - [Tarea](https://classroom.github.com/a/-hwjGPpt)
+---
+
+▶️ [GitHub Classroom](https://classroom.github.com/classrooms/145561749-dw1a-classroom) - [Tarea](https://classroom.github.com/a/-hwjGPpt)
+
+---
 
 🙋 **Grupo privado `DW1A`**
 
