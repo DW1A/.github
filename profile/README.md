@@ -10,7 +10,7 @@ Bienvenidos 👋
 
 ---
 
-▶️ [GitHub Classroom](https://classroom.github.com/classrooms/145561749-dw1a-classroom) - [Tarea](https://classroom.github.com/a/-hwjGPpt)
+▶️ [GitHub Classroom](https://classroom.github.com/classrooms/145561749-dw1a) - [Tarea](https://classroom.github.com/a/-hwjGPpt)
 
 ---
 
