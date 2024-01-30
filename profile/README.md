@@ -19,3 +19,26 @@ Bienvenidos 👋
 ## Temario
 
 ## Referencias
+
+### HTML/CSS
+
+**MDN**
+
+- [HTML: Lenguaje de etiquetas de hipertexto](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS: Cascading Style Sheets](https://developer.mozilla.org/es/docs/Web/CSS)
+  
+**W3Schools
+
+- [HTML Tutorial](https://www.w3schools.com/html/default.asp)
+- [CSS Tutorial](https://www.w3schools.com/css/default.asp)
+
+## Recursos
+
+[CSS-Tricks](https://css-tricks.com/)
+
+**Practicar en línea**
+
+- [CodePen](https://codepen.io/)
+- [playcode.io](https://playcode.io/)
+- [flexboxfroggy.com](https://flexboxfroggy.com/#es)
+- [cssgridgarden.com](https://cssgridgarden.com/#es)
