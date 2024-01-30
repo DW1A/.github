@@ -27,7 +27,7 @@ Bienvenidos 👋
 - [HTML: Lenguaje de etiquetas de hipertexto](https://developer.mozilla.org/es/docs/Web/HTML)
 - [CSS: Cascading Style Sheets](https://developer.mozilla.org/es/docs/Web/CSS)
   
-**W3Schools
+**W3Schools**
 
 - [HTML Tutorial](https://www.w3schools.com/html/default.asp)
 - [CSS Tutorial](https://www.w3schools.com/css/default.asp)
