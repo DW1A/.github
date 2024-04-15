@@ -12,6 +12,8 @@ Bienvenidos 👋
 
 ▶️ [GitHub Classroom](https://classroom.github.com/classrooms/145561749-dw1a) - [Tarea](https://classroom.github.com/a/-hwjGPpt)
 
+▶️ [GitHub Classroom](https://classroom.github.com/a/DwkmrGm6) - Tarea sobre metodologías Ágiles
+
 ---
 
 🙋 **Grupo privado `DW1A`**
